@@ -1,0 +1,107 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bauchspiess%
+}{%
+Bauchspiess%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+bauchspiess2004introduccao}
+\APACinsertmetastar {%
+bauchspiess2004introduccao}%
+\begin{APACrefauthors}%
+Bauchspiess, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introdu{\c{c}}{\~a}o aos Sistemas Inteligentes}
+  {Introdu{\c{c}}{\~a}o aos sistemas inteligentes}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Aplica{\c{c}}{\~o}es em Engenharia de Redes Neurais
+  Artificiais, L{\'o}gica Fuzzy e Sistemas Neuro-Fuzzy}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bilobrovec%
+, Mar{\c{c}}al%
+\BCBL {}\ \BBA {} Kovaleski%
+}{%
+Bilobrovec%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+bilobrovec2004implementaccao}
+\APACinsertmetastar {%
+bilobrovec2004implementaccao}%
+\begin{APACrefauthors}%
+Bilobrovec, M.%
+, Mar{\c{c}}al, R\BPBI F\BPBI M.%
+\BCBL {}\ \BBA {} Kovaleski, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Implementa{\c{c}}{\~a}o de um sistema de controle
+  inteligente utilizando a l{\'o}gica fuzzy} {Implementa{\c{c}}{\~a}o de um
+  sistema de controle inteligente utilizando a l{\'o}gica fuzzy}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{XI SIMPEP, Bauru/Brasil}{}{}{42}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gilabert%
+\ \BBA {} Arnaiz%
+}{%
+Gilabert%
+\ \BBA {} Arnaiz%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+gilabert2006intelligent}
+\APACinsertmetastar {%
+gilabert2006intelligent}%
+\begin{APACrefauthors}%
+Gilabert, E.%
+\BCBT {}\ \BBA {} Arnaiz, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Intelligent automation systems for predictive
+  maintenance: A case study} {Intelligent automation systems for predictive
+  maintenance: A case study}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Robotics and Computer-Integrated
+  Manufacturing}{22}{5-6}{543--549}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Greenberg%
+}{%
+Greenberg%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+greenberg2010simplified}
+\APACinsertmetastar {%
+greenberg2010simplified}%
+\begin{APACrefauthors}%
+Greenberg, H\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A simplified introduction to LATEX} {A simplified
+  introduction to latex}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{University of Colorado at Denver (http://samizdat.
+  mines. edu/latex/)}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
